@@ -99,6 +99,7 @@
 
 
 ###
+![Snake Animation](https://raw.githubusercontent.com/sekerblade/sekerblade/output/github-contribution-grid-snake.svg)
 
 
 
