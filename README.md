@@ -86,12 +86,12 @@
 
 
 ## 🔥 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sekerblade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false" height="180" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sekerblade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sekerblade&theme=default" alt="sekerblade" /></p>
-  
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sekerblade&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sekerblade&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sekerblade&theme=great-gatsby&hide_border=false)<br/>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sekerblade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
 ## 🏆 GitHub Trophies
