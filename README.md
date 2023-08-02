@@ -25,7 +25,7 @@
 ###
 
 
-## ⚙️ Languages and Tools:
+## ⚙️ Stacks:
 
 
 ###
