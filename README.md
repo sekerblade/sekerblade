@@ -18,7 +18,7 @@
 
 - 📫 You can contact me directly via **sekerblade@gmail.com**
 
-- ⚡ Fun fact: **I love music ToT**
+
 
 
 
