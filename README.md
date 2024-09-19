@@ -10,10 +10,8 @@
 
 
 
-- 🧑‍🏫 I’m currently a computer science student at **Thammasat University**
-
-- 📚 I’m learning **NextJS and Typescript** recently
-
+- 🧑‍🏫 I am currently completing my computer science degree at **Thammasat University**.
+- 
 - 📫 You can contact me directly via **sekerblade@gmail.com**
 
 
