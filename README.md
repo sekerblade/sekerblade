@@ -11,8 +11,8 @@
 
 
 - 🧑‍🏫 I am currently completing my computer science degree at **Thammasat University**.
-- 
-- 📫 You can contact me directly via **sekerblade@gmail.com**
+  
+- 📫 To reach me directly, send me an email at sekerblade@gmail.com
 
 
 
