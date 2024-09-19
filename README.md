@@ -7,8 +7,6 @@
 
 ###
 
-<img align="right" height="170" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" alt="hello world" />
-<img align="right" height="170" src="https://media.tenor.com/4IckGuTqWeYAAAAC/spongebob-squarepants-begging.gif" alt="spong bob" />
 
 
 
