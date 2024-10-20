@@ -12,7 +12,7 @@
 
 -  currently completing computer science degree at **Thammasat University**.
   
--  contact me directly via pongsathorn.sut@gmail.com
+-  contact directly via pongsathorn.sut@gmail.com
 
 
 
