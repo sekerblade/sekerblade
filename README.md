@@ -78,8 +78,7 @@
 
 
 ###
-##  GitHub Trophies
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=sekerblade&theme=radical&no-frame=true&no-bg=false&margin-w=13" height="200" alt="trophies" /></div>
+
 
 
 ###
