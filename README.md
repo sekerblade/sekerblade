@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Seb</h2>
+<h2 align="center">Hi I'm Seb</h2>
 
 ###
 
@@ -10,9 +10,9 @@
 
 
 
-- 🧑‍🏫 I am currently completing my computer science degree at **Thammasat University**.
+-  I am currently completing my computer science degree at **Thammasat University**.
   
-- 📫 contact me directly via pongsathorn.sut@gmail.com
+-  contact me directly via pongsathorn.sut@gmail.com
 
 
 
