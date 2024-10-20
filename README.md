@@ -10,7 +10,7 @@
 
 
 
--  I am currently completing my computer science degree at **Thammasat University**.
+-  currently completing computer science degree at **Thammasat University**.
   
 -  contact me directly via pongsathorn.sut@gmail.com
 
