@@ -12,7 +12,7 @@
 
 - 🧑‍🏫 I am currently completing my computer science degree at **Thammasat University**.
   
-- 📫 To reach me directly, send me an email at sekerblade@gmail.com
+- 📫 To reach me directly, send me an email at pongsathorn.sut@gmail.com
 
 
 
