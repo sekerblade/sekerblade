@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Zeb</h2>
-<h3 align="center">Full-Stack Software Developer · Next.js · Node.js · Spring Boot</h3>
+<h3 align="center">Full-Stack Software Developer · Next.js · Node.js</h3>
 
 ###
 
