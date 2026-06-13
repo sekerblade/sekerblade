@@ -1,91 +1,43 @@
-<h2 align="center">I'm Safe</h2>
+<h2 align="center">Hi, I'm Safe 👋</h2>
+<h3 align="center">Full-Stack Software Developer · Next.js · Node.js · Spring Boot</h3>
 
 ###
-
 
 <!-- <a href="https://zebastian-cstu.vercel.app/" target="_blank"> my portfolio's site </a> -->
 
 ###
 
-
-
-
--  currently completing computer science degree at **Thammasat University**.
-  
--  contact directly via pongsathorn.sut@gmail.com
-
-
-
-
+- 🧑‍💻 Full-stack developer at **Ana-digit Group**, building production web systems with **Next.js, TypeScript, Node.js/Express and PHP**.
+- 🏗️ Designed a **Redis-backed job-queue pipeline** that manages **200+ biometric scanner devices** across **100 client companies**, syncing tens of thousands of attendance records.
+- ⚙️ Across the stack: REST APIs, **MySQL / PostgreSQL** schema design, **Spring Boot** microservices with **Kafka**, and **Docker** deployment.
+- 🎓 **B.Sc. in Computer Science**, Thammasat University — Minor: Data Science.
+- 📫 Reach me at **pongsathorn.sut@gmail.com**
 
 ###
 
-
-##  Stacks:
-
+## Stacks:
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  
- 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  height="30"/> 
-  <img width="12" />
-  
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,java,spring,php,python" height="40" alt="frameworks and languages" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,supabase,kafka,docker,git" height="40" alt="data and infrastructure" />
+  <img width="8" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" height="40" />
 </div>
 
 ###
 
-
-
-###
-
-
-
-##  GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=sekerblade&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sekerblade&theme=great-gatsby&hide_border=false)<br/>
 
-
-
 ###
 
-
-
-###
 ![Snake Animation](https://raw.githubusercontent.com/sekerblade/sekerblade/output/github-contribution-grid-snake.svg)
 
-
 ---
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
