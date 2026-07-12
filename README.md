@@ -8,7 +8,7 @@
 ###
 
 - 🧑‍💻 Full-stack developer, building production web systems with **Next.js, TypeScript, Node.js/Express and PHP**.
-- 🏗️ Designed a **Redis-backed job-queue pipeline** that manages **200+ biometric scanner devices** across **100+ client companies**, syncing tens of thousands of attendance records.
+- 🏗️ Specialized in biometric scanner infrastructure, designing a high-capacity job pipeline to manage 200+ devices and sync tens of thousands of attendance records across 100+ client companies.
 - ⚙️ Across the stack: REST APIs, **MySQL / PostgreSQL** schema design, **Spring Boot** microservices with **Kafka**, and **Docker** deployment.
 - 🎓 **B.Sc. in Computer Science**, Thammasat University — Minor: Data Science.
 - 📫 Reach me at **pongsathorn.sut@gmail.com**
