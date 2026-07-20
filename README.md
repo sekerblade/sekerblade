@@ -7,7 +7,7 @@
 
 ###
 
-- 🧑‍💻 Full-stack developer, building production web systems with **Next.js, TypeScript, Node.js/Express and PHP**.
+
 - 🏗️ Specialized in biometric scanner infrastructure, designing a high-capacity job pipeline to manage 200+ devices and sync tens of thousands of attendance records across 100+ client companies.
 - 🎓 **B.Sc. in Computer Science**, Thammasat University — Minor: Data Science.
 - 📫 Reach me at **pongsathorn.sut@gmail.com**
